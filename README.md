@@ -60,10 +60,7 @@ Main tables:
 - Track
 - Customer
 - Invoice
-- InvoiceLine
-- Playlist
-- Genre
-- MediaType
+- Track
 - Users (custom authentication table)
 
 
